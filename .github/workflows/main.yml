@@ -66,4 +66,3 @@ jobs:
           context: ./backend/
           push: true
           tags: fersawas/taski_backend:latest 
-          
